@@ -1,3 +1,13 @@
+# This is a to do app done with React js
+
+This project is done using React js and its built in useState and useEffect hooks,
+in this project to do list items are saved in the localstorage and you can add a task, delete 
+the task, mark as completed. [Check it out here](https://warm-alpaca-cd0e4f.netlify.app/)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
