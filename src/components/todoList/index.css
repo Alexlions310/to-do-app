@@ -1,0 +1,18 @@
+.li{
+    padding: 10px 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.completed, .deleted{
+    width: 20px;
+}
+
+.deleted{
+    margin-left: 20px;
+}
+
+.completed:hover, .deleted:hover{
+    cursor: pointer;
+}
